@@ -1,9 +1,9 @@
 {
-	"id": "shure-wx-presets",
-	"name": "shure-wx-presets",
-	"shortname": "WX-Pre",
-	"description": "Shure Wireless Receivers with Presets",
-	"version": "2.3.1",
+	"id": "sqkysqnt-wxpresets",
+	"name": "sqkysqnt-wxpresets",
+	"shortname": "WXPre",
+	"description": "Shure Wireless Receivers with Presets (Custom)",
+	"version": "1.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/sqkysqnt/shure-wx-presets.git",
 	"bugs": "https://github.com/sqkysqnt/shure-wx-presets/issues",
@@ -24,7 +24,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../src/index.js"
 	},
-	"manufacturer": "Shure",
-	"products": ["ULX-D", "QLX-D", "SLX-D", "Axient Digital (AD)"],
-	"keywords": ["Wireless Microphone"]
+	"manufacturer": "sqkysqnt",
+	"products": ["WX Presets"],
+	"keywords": ["Shure", "Wireless Microphone", "Presets"]
 }
