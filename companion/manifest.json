@@ -1,12 +1,12 @@
 {
-	"id": "shure-wireless",
-	"name": "shure-wireless",
-	"shortname": "shure-wx",
-	"description": "",
-	"version": "0.0.0",
+	"id": "shure-wx-presets",
+	"name": "shure-wx-presets",
+	"shortname": "WX-Pre",
+	"description": "Shure Wireless Receivers with Presets",
+	"version": "2.3.1",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-shure-wireless.git",
-	"bugs": "https://github.com/bitfocus/companion-module-shure-wireless/issues",
+	"repository": "git+https://github.com/sqkysqnt/shure-wx-presets.git",
+	"bugs": "https://github.com/sqkysqnt/shure-wx-presets/issues",
 	"maintainers": [
 		{
 			"name": "Keith Rocheck",
